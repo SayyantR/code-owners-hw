@@ -1,0 +1,10 @@
+{
+  "team": "hackweek-team",
+  "contacts": {},
+  "tags": {
+    "Data Sensitivity": "User data",
+    "Public Facing": "False",
+    "Tier": "Tier 2",
+    "Organization": "semgrep-1"
+  }
+}
